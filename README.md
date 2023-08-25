@@ -1,0 +1,1 @@
+A task management web application where users can create, update, and manage tasks. The application will have both frontend and backend components. Users should be able to register, log in, and perform CRUD (Create, Read, Update, Delete) operations on tasks.
